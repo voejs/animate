@@ -1,6 +1,6 @@
 {
   "name": "@voejs/animate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "animation of voe.js which using vue.js",
   "author": "evio",
   "license": "MIT",
